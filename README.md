@@ -1,4 +1,4 @@
-Чтобы запустить проект: 
+##Чтобы запустить проект:##
 
     * установите XAMPP https://www.apachefriends.org/ru/download.html
     * зайдите в папку xampp/htdocs и вставте папку budget
